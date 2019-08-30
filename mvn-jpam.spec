@@ -4,7 +4,7 @@
 #
 Name     : mvn-jpam
 Version  : 1.1
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/net/sf/jpam/jpam/1.1/jpam-1.1.jar
 Source0  : https://repo1.maven.org/maven2/net/sf/jpam/jpam/1.1/jpam-1.1.jar
 Source1  : https://repo1.maven.org/maven2/net/sf/jpam/jpam/1.1/jpam-1.1.pom
